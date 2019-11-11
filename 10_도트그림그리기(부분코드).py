@@ -31,16 +31,3 @@ for j in range(len(ver)):
     t.forward(length)
     t.left(90)
 turtle.done()
-
-
-
-
-
-
-
-
-
-
-
-
-
